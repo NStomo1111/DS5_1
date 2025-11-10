@@ -72,15 +72,6 @@ scipy>=1.7.0
 ├── README.md                          # このファイル
 ├── requirements.txt                   # 必要なライブラリ
 ├── complete_analysis_code.py          # 完全な分析コード
-├── DS5_DataFormat_Visualization_HandsOn.md  # 講義スライド（Markdown）
-├── DS5_DataFormat_Visualization_HandsOn.pdf # 講義スライド（PDF）
-└── output/                            # 出力ファイル（実行後に生成）
-    ├── visualization_1_bar_chart.png
-    ├── visualization_2_correlation_matrix.png
-    ├── visualization_3_pca.png
-    ├── visualization_4_pairplot.png
-    ├── correlation_test_results.csv
-    └── subject_statistics.csv
 ```
 
 ## 🚀 実行方法
@@ -88,8 +79,8 @@ scipy>=1.7.0
 ### 1. リポジトリのクローン
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/NStomo1111/DS5_1.git
+cd https://github.com/NStomo1111/DS5_1.git
 ```
 
 ### 2. 必要なライブラリのインストール
